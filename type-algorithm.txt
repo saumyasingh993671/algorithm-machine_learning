@@ -1,0 +1,49 @@
+TYPES OF MACHINE LEARNING ALGORITHM-
+
+3 TYPES
+1) Supervised Learning algorithm
+2) Unsupervised Learning algorithm
+3) Reinforcement Learning algorithm
+
+1) SUPERVISED LEARNING ALGORITHM
+
+* This algorithm consists of a target/outcome variable (or dependent variable) which is to be predicted from a given set of predictors (independent variables).
+* Using this set of variables, we generate a function that maps input data to desired outputs.
+* The training process continues until the model achieves the desired level of accuracy on the training data.
+
+* Examples of Supervised Learning: Regression, Decision Tree, Random Forest, KNN, Logistic Regression, etc.
+
+2) UNSUPERVISED LEARNING ALGORITHM
+
+* In this algorithm, we do not have any target or outcome variable to predict / estimate (which is called unlabelled data).
+* It is used for recommendation systems or clustering populations in different groups. clustering algorithms are widely used for segmenting customers into different groups for specific interventions.
+
+* Examples of Unsupervised Learning: Apriori algorithm, K-means clustering.
+
+3) REINFORCEMENT LEARNING ALGORITHM
+
+* Using this algorithm, the machine is trained to make specific decisions.
+* The machine is exposed to an environment where it trains itself continually using trial and error. 
+* This machine learns from past experience and tries to capture the best possible knowledge to make accurate business decisions.
+
+* Example of Reinforcement Learning: Markov Decision Process
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LIST OF 10 COMMON MACHINE LEARNING ALGORITHM
+
+These algorithms can be applied to almost any data problem:
+
+1) Linear Regression
+2) Logistic Regression
+3) Decision Tree
+4) SVM
+5) Naive Bayes
+6) kNN
+7) K-Means
+8) Random Forest
+9) Dimensionality Reduction Algorithms
+10) Gradient Boosting algorithms
+     10.1) GBM
+     10.2) XGBoost
+     10.3) LightGBM
+     10.4) CatBoost
